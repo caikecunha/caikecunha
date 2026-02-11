@@ -4,7 +4,7 @@
 ### Sobre
 Sou desenvolvedor Back-end focado na construção da lógica e da estrutura que sustentam aplicações modernas. Trabalho principalmente com Node.js e Express, e estou avançando meus estudos em TypeScript para criar APIs REST bem organizadas, seguras e de fácil manutenção.
 
-Tenho experiência em modelagem e persistência de dados usando MySQL e Sequelize, além de familiaridade com ferramentas como Docker, Linux e Git, que ajudam a manter ambientes consistentes e um fluxo de desenvolvimento sólido.
+Tenho experiência em modelagem e persistência de dados usando MySQL e Prisma ORM, além de familiaridade com ferramentas como Docker, Linux e Git, que ajudam a manter ambientes consistentes e um fluxo de desenvolvimento sólido.
 
 Gosto de resolver problemas, entender requisitos e transformá-los em soluções práticas. Busco evoluir constantemente, escrevendo código claro, organizado e alinhado a boas práticas do desenvolvimento Back-end.
 
