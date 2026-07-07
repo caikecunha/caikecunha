@@ -2,11 +2,15 @@
 ## 🌎 Olá mundo! Eu sou Caike Cunha 👋
 
 ### Sobre
-Sou desenvolvedor Back-end focado na construção da lógica e da arquitetura que sustentam aplicações modernas. Trabalho principalmente com Node.js e NestJS, utilizando TypeScript para criar APIs REST organizadas, seguras e de fácil manutenção, aplicando modularização, injeção de dependência e arquitetura em camadas.
+Sou desenvolvedor Full-Stack focado na construção da lógica e da arquitetura que sustentam aplicações modernas. Trabalho principalmente com Node.js e NestJS,construindo aplicações modernas do banco de dados à interface do usuário.
+
+Trabalho principalmente com Node.js, NestJS, Vue.js e Vuetify, utilizando TypeScript para desenvolver APIs REST e interfaces modernas, organizadas e de fácil manutenção.
+
+No Front-end, desenvolvo interfaces utilizando Vue.js, Vuetify e Pinia, criando componentes reutilizáveis, gerenciamento de estado e integração com APIs REST, sempre buscando uma boa experiência para o usuário.
 
 Tenho experiência em modelagem e persistência de dados usando PostgreSQL, MySQL, Prisma ORM e TypeORM, além de familiaridade com ferramentas como Docker, Linux e Git, que ajudam a manter ambientes consistentes e um fluxo de desenvolvimento sólido.
 
-Gosto de resolver problemas, entender requisitos e transformá-los em soluções práticas. Busco evoluir constantemente, escrevendo código claro, organizado e alinhado a boas práticas do desenvolvimento Back-end.
+Gosto de resolver problemas, entender requisitos e transformá-los em soluções práticas. Busco evoluir constantemente, escrevendo código claro, organizado e alinhado a boas práticas do desenvolvimento de software.
 
 <div align="right">
   <a href="https://www.linkedin.com/in/caikecunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -20,11 +24,15 @@ Gosto de resolver problemas, entender requisitos e transformá-los em soluções
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
 
   <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white" />
   
